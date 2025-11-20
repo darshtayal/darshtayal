@@ -16,17 +16,25 @@ I care about reliability, clarity, and systems that hold up when real users show
 
 If you’re working on LLM automation or production AI infrastructure, feel free to reach out.
 
-<table>
-  <tr>
-    <td><strong>🧪 Toy AI Projects</strong></td>
-    <td><a href="https://github.com/your-username?tab=repositories&q=toy+ai&type=source">View All →</a></td>
-  </tr>
-  <tr>
-    <td><strong>🔧 End-to-End AI Projects</strong></td>
-    <td><a href="https://github.com/your-username?tab=repositories&q=end+to+end&type=source">View All →</a></td>
-  </tr>
-  <tr>
-    <td><strong>🌟 Flagship AI Projects</strong></td>
-    <td><a href="https://github.com/your-username?tab=repositories&q=flagship&type=source">View All →</a></td>
-  </tr>
-</table>
+# 🚀 Explore My AI Project Portfolio
+
+A single place to browse all the important AI work I’ve built — from small experiments to full production-style systems.
+
+---
+
+## 🧪 Toy AI Projects
+- [Project Name 1](https://github.com/your-link)
+- [Project Name 2](https://github.com/your-link)
+- [Project Name 3](https://github.com/your-link)
+
+---
+
+## 🔧 End-to-End AI Projects
+- [Project Name 1](https://github.com/your-link)
+- [Project Name 2](https://github.com/your-link)
+- [Project Name 3](https://github.com/your-link)
+
+---
+
+## 🌟 Flagship AI Projects
+**Coming Soon!**
