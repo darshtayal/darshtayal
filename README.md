@@ -23,7 +23,7 @@ A single place to browse all the important AI work I’ve built — from small e
 ---
 
 ## 🧪 Cool AI Projects
-- [Darsh's Project](https://github.com/darshtayal/Darsh-s-Project)
+- [PDF TO AI AGENT](https://github.com/darshtayal/Darsh-s-Project)
 - [Web Answerer Tool](https://github.com/darshtayal/Darsh-s-Web-Answerer)
 - [GMail Automator through n8n](https://github.com/darshtayal/Gmail-Automator-through-n8n)
 - [Reward Modelling (LLM Fine Tuning)](https://github.com/darshtayal/Reward-Modelling-With-Qwen3-0.6B)
