@@ -16,13 +16,13 @@ I care about reliability, clarity, and systems that hold up when real users show
 
 If you’re working on LLM automation or production AI infrastructure, feel free to reach out.
 
-# 🚀 Explore My AI Project Portfolio
+# Explore My AI Project Portfolio
 
 A single place to browse all the important AI work I’ve built — from small experiments to full production-style systems.
 
 ---
 
-## 🧪 Toy AI Projects
+## 🧪 Cool AI Projects
 - [Project Name 1](https://github.com/your-link)
 - [Project Name 2](https://github.com/your-link)
 - [Project Name 3](https://github.com/your-link)
