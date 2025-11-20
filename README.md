@@ -23,16 +23,20 @@ A single place to browse all the important AI work I’ve built — from small e
 ---
 
 ## 🧪 Cool AI Projects
-- [Project Name 1](https://github.com/your-link)
-- [Project Name 2](https://github.com/your-link)
-- [Project Name 3](https://github.com/your-link)
+- [Darsh's Project](https://github.com/darshtayal/Darsh-s-Project)
+- [Web Answerer Tool](https://github.com/darshtayal/Darsh-s-Web-Answerer)
+- [GMail Automator through n8n](https://github.com/darshtayal/Gmail-Automator-through-n8n)
+- [Reward Modelling (LLM Fine Tuning)](https://github.com/darshtayal/Reward-Modelling-With-Qwen3-0.6B)
+- [Youtube Transcript Summarizer](https://github.com/darshtayal/Youtube-Transcipt-Summarizer-by-Darsh-Tayal)
+- [Telegram Bot](https://github.com/darshtayal/Telegram-bot)
+- [AI Report Generator](https://github.com/darshtayal/AI-Report-Creator-by-Darsh-Tayal)
 
 ---
 
 ## 🔧 End-to-End AI Projects
-- [Project Name 1](https://github.com/your-link)
-- [Project Name 2](https://github.com/your-link)
-- [Project Name 3](https://github.com/your-link)
+- [MULTI AI AGENT](https://github.com/darshtayal/MULTI-AI-AGENT)
+- [AI ANIME RECOMMENDER](https://github.com/darshtayal/ANIME-RECOMMENDER)
+- [FLIPKART PRODUCT RECOMMENDER](https://github.com/darshtayal/FLIPKART-RECC)
 
 ---
 
