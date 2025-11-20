@@ -1,4 +1,4 @@
-**LLM Engineer focused on building production-ready AI systems — not demos.**
+**LLM Engineer focused on building production-ready AI systems**
 
 I work across the full stack of modern AI workflows:  
 **RAG pipelines • Agents • LangChain • LangGraph • Agents SDK • n8n • Observability • DevOps • Cloud**
