@@ -16,6 +16,8 @@ I care about reliability, clarity, and systems that hold up when real users show
 
 If you’re working on LLM automation or production AI infrastructure, feel free to reach out.
 
+Please check out my LinkedIn Profile: https://www.linkedin.com/in/darsh-tayal/
+
 # Explore My AI Project Portfolio
 
 A single place to browse all the important AI work I’ve built — from small experiments to full production-style systems.
