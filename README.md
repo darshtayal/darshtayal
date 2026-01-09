@@ -14,7 +14,7 @@ I specialize in building **complex agentic systems** — multi-step workflows, t
 
 I care about reliability, clarity, and systems that hold up when real users show up.
 
-If you’re working on LLM automation or production AI infrastructure, feel free to reach out.
+If you’re working on LLM automation or production AI infrastructure, feel free to reach out at darshtayal8@gmail.com
 
 Please check out my LinkedIn Profile: https://www.linkedin.com/in/darsh-tayal/
 
